@@ -1,9 +1,0 @@
-[2022-10-11 11:59:24: INFO] Building service
-[2022-10-11 11:59:24: INFO] Getting credentials
-[2022-10-11 11:59:24: INFO] Token file found
-[2022-10-11 11:59:24: INFO] Service built
-[2022-10-11 11:59:24: INFO] CalendarAPI initialized
-[2022-10-11 11:59:24: INFO] Getting upcoming events
-[2022-10-11 11:59:24: DEBUG] URL being requested: GET https://www.googleapis.com/calendar/v3/calendars/maksimzberh%40gmail.com/events?timeMin=2022-10-11T08%3A59%3A24.737041Z&timeMax=2022-10-23T08%3A59%3A24.737047Z&singleEvents=true&orderBy=startTime&alt=json
-[2022-10-11 11:59:24: DEBUG] Making request: POST https://oauth2.googleapis.com/token
-[2022-10-11 11:59:25: INFO] Found 7 events
