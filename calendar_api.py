@@ -28,7 +28,7 @@ class CalendarAPI:
         
         self.logger.info('CalendarAPI initialized')
 
-    def get_events_data(self, max_days=7) -> dict:
+    def get_events_data(self, max_days=7) -> list:
 
         """
         Returns a list of events with the following data:
