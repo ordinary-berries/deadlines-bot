@@ -1,2 +1,3 @@
 # Tokens and credentials
-/secret/
+secret/
+logs/*
