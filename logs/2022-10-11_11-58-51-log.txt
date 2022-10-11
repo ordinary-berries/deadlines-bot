@@ -1,0 +1,5 @@
+[2022-10-11 11:58:51: INFO] Building service
+[2022-10-11 11:58:51: INFO] Getting credentials
+[2022-10-11 11:58:51: INFO] Token file found
+[2022-10-11 11:58:51: INFO] Service built
+[2022-10-11 11:58:51: INFO] CalendarAPI initialized
